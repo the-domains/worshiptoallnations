@@ -1,0 +1,28 @@
+name: worshiptoallnations
+favicon: null
+layout_spectrum: 0.07262653391808271
+typography_spectrum: 0.3509331960231066
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.136985034449026
+  lightness: 0.8125838150735945
+  saturation: 0.788260605186224
+  rhythmicContrast: 0.43927330477163196
+purpose: []
