@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Vision: To provide top-notch worship leader education FREE of charge to potential worship leaders. '
-datePublished: '2016-05-30T14:41:24.020Z'
-dateModified: '2016-05-30T14:40:49.465Z'
+datePublished: '2016-05-30T14:49:48.584Z'
+dateModified: '2016-05-30T14:41:31.984Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-30-vision-to-provide-top-notch-worship-leader-education-free-o.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-30-vision-to-provide-top-notch-worship-leader-education-free-o.md
 url: vision-to-provide-top-notch-worship-leader-education-free-o/index.html
 _type: Article
 
